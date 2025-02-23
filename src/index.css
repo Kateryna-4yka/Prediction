@@ -1,0 +1,93 @@
+:root {
+  font-family: "Tangerine", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 45px;
+  line-height: 1,5;
+  letter-spacing: -0.0000001em;
+  color: rgb(255, 255, 255);
+  background-color: black;
+  background-image: linear-gradient(rgba(110, 51, 36, 0.349), rgba(0, 0, 0, 0.863)), url(./components/Section/fon.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+
+/* надаємо глобальний контейнер з падінгами, як з макету, та авто марджинами зліва-зправа*/
+.container {
+  max-width: 1750px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+/* ===========================================глобальні скидання стилів ========================================*/
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+  color: currentColor;
+}
+
+.input {
+  font-family: inherit;
+}
+
+/*скинути налаштування для філсетів (це як діви у модальному вікні) */
+.fieldset {
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/* приховані елементи */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
