@@ -51,12 +51,12 @@ button {
   color: currentColor;
 }
 
-.input {
+input {
   font-family: inherit;
 }
 
 /*скинути налаштування для філсетів (це як діви у модальному вікні) */
-.fieldset {
+fieldset {
   padding: 0;
   margin: 0;
   border: none;
