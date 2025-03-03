@@ -1,0 +1,38 @@
+.div{
+    display: flex;
+align-items: center;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.text {
+    font-size: 50px;
+    text-align: center;
+}
+
+.button {
+    font-size: 35px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgba(95, 10, 10, 0.212);
+    border-radius: 20px;
+    padding: 15px 30px;
+    border: none;
+}
+
+.cardContainer {
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+}
+
+.cards { 
+    border-radius: 7px;
+}
+
+.smole {
+   font-size: 20px;
+   color: rgba(119, 119, 119, 0.822);
+   letter-spacing: 3px;
+   font-family: "Eagle Lake", serif;
+}

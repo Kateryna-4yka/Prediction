@@ -7,7 +7,7 @@
   letter-spacing: -0.0000001em;
   color: rgb(255, 255, 255);
   background-color: black;
-  background-image: linear-gradient(rgba(110, 51, 36, 0.349), rgba(0, 0, 0, 0.863)), url(./components/Section/fon.png);
+  background-image: linear-gradient(rgba(110, 51, 36, 0.349), rgba(0, 0, 0, 0.863)), url(./img/fon.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -27,8 +27,8 @@
 }
 
 .section {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 /* ===========================================глобальні скидання стилів ========================================*/

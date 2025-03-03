@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+
+    "title": "A New Path Awaits",
+    "text": "An unexpected opportunity will present itself soon. Embrace it with an open heart, but beware of the shadows it might cast on your path.",
+    "alt": "good"
+  },
+  {
+    "id": 2,
+
+    "title": "A Dark Secret Revealed",
+    "text": "The truth you’ve been avoiding will soon come to light. It’s not what you expect, but it will change everything in your life.",
+    "alt": "bad"
+  },
+  {
+    "id": 3,
+
+    "title": "A Time for Reflection",
+    "text": "The next few days will bring clarity. Trust your intuition, for it holds the answers to questions you've been asking for far too long.",
+    "alt": "good"
+  },
+  {
+    "id": 4,
+
+    "title": "Beware of False Friends",
+    "text": "Not everyone who smiles at you is a true ally. Watch closely, for someone will try to deceive you, and only your instincts will help you spot the liar.",
+    "alt": "bad"
+  },
+  {
+    "id": 5,
+
+    "title": "A Chance Encounter",
+    "text": "You will meet someone who will shape your future in ways you cannot yet imagine. This person may come at the most unexpected time, but they will be pivotal in your journey.",
+    "alt": "good"
+  },
+  {
+    "id": 6,
+
+    "title": "The Calm Before the Storm",
+    "text": "Peace will reign for now, but do not be fooled. A storm is coming, and you must prepare, for it will test your resolve in ways you cannot yet comprehend.",
+    "alt": "bad"
+  },
+  {
+    "id": 7,
+
+    "title": "An Unexpected Gift",
+    "text": "A surprise will find its way to you. It may not be what you expected, but it will be exactly what you need to move forward in your life.",
+    "alt": "good"
+  },
+  {
+    "id": 8,
+
+    "title": "Deceit Lurks Nearby",
+    "text": "Someone close to you may not be as trustworthy as you believe. Be cautious with your words and actions, for betrayal may be closer than you think.",
+    "alt": "bad"
+  },
+  {
+    "id": 9,
+
+    "title": "A Fresh Start",
+    "text": "A new chapter in your life will soon begin. This will be a time of growth and opportunity, but only if you let go of the past and embrace the unknown.",
+    "alt": "good"
+  },
+  {
+    "id": 10,
+
+    "title": "Danger Lies Ahead",
+    "text": "Something ominous is coming your way. Stay alert, for a challenge that will test your strength is about to appear in your life.",
+    "alt": "bad"
+  },
+  {
+    "id": 11,
+
+    "title": "Trust Your Instincts",
+    "text": "A decision lies ahead, and your heart will guide you more than your mind. Trust your gut, for it holds the answers you seek.",
+    "alt": "good"
+  },
+  {
+    "id": 12,
+
+    "title": "A Great Loss",
+    "text": "A loss is imminent, but it is part of a bigger transformation. Though it may hurt, it will eventually lead to a brighter future.",
+    "alt": "bad"
+  },
+  {
+    "id": 13,
+
+    "title": "A Beautiful Encounter",
+    "text": "A connection is waiting to bloom. This meeting will change your life in ways that will surprise you, bringing joy and fulfillment.",
+    "alt": "good"
+  },
+  {
+    "id": 14,
+
+    "title": "A Betrayal Unfolds",
+    "text": "Someone you trust will let you down, and the pain will be great. But know that this betrayal will ultimately teach you a valuable lesson.",
+    "alt": "bad"
+  },
+  {
+    "id": 15,
+
+    "title": "A Reward Awaits You",
+    "text": "Your hard work will soon pay off. The rewards are closer than you think, but be patient as the final pieces of the puzzle fall into place.",
+    "alt": "good"
+  },
+  {
+    "id": 16,
+
+    "title": "Imminent Danger",
+    "text": "A shadow of danger is near. Take caution, as a situation may arise that will require you to act quickly and decisively to protect yourself.",
+    "alt": "bad"
+  },
+  {
+    "id": 17,
+
+    "title": "A New Companion",
+    "text": "Someone new will enter your life soon, bringing warmth and new opportunities. Embrace their presence, as they will bring much-needed positivity.",
+    "alt": "good"
+  },
+  {
+    "id": 18,
+
+    "title": "A Moment of Doubt",
+    "text": "You will soon face a moment of doubt. Don’t let it consume you, for it is only a fleeting challenge that will soon pass, leaving you stronger.",
+    "alt": "bad"
+  },
+  {
+    "id": 19,
+
+    "title": "Unexpected Joy",
+    "text": "A sudden moment of joy will brighten your days. Celebrate the little victories that life presents, for they are signs that good things are on the horizon.",
+    "alt": "good"
+  },
+  {
+    "id": 20,
+     "title": "An Unseen Obstacle",
+    "text": "An obstacle will soon present itself, hidden behind the veil of everyday life. It may not be visible yet, but prepare yourself for the challenge that lies ahead.",
+    "alt": "bad"
+  }
+]
